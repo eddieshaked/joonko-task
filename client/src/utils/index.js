@@ -1,0 +1,1 @@
+export const hasCookie = (name) => document.cookie.indexOf(`${name}=`)
